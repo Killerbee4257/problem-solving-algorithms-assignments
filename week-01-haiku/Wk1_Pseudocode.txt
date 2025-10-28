@@ -1,0 +1,7 @@
+START
+	DISPLAY "Title: The Light of the Moon "
+	DISPLAY "Author: Matsuo Bashō"
+	DISPLAY "An old silent pond"
+	DISPLAY "A frog jumps into the pond—"
+	DISPLAY "Splash! Silence again."
+END
