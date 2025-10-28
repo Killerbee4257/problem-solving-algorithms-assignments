@@ -8,7 +8,7 @@ Design a simple program to display a traditional Japanese haiku. The output shou
 ## 📊 Files
 - `flowchart.png`: Visual representation of the algorithm
 - `pseudocode.txt`: Step-by-step logic in pseudocode format
-- `haiku.py`: Final working Python program
+- `Wk1_Program.py`: Final working Python program
 
 ## 💡 Sample Output
 
